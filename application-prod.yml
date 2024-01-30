@@ -1,5 +1,6 @@
 spring:
-  name: congig-prod
+  application:
+    name: congig-prod
 eureka:
   instance:
     prefer-ip-address: true
